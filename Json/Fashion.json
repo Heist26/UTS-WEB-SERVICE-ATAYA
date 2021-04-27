@@ -1,0 +1,33 @@
+[
+    {
+       "Jenis_Baju": "Sweater",
+       "Merk_Baju": "Supreme",
+       "Harga": "100000",
+       "Rating": "9/10"
+       
+    },
+    {
+       "Jenis_Baju": "Hoodie",
+       "Merk_Baju": "Pull&Bear",
+       "Harga": "250000",
+       "Rating": "8/10"
+    },
+    {
+       "Jenis_Baju": "Hoodie",
+       "Merk_Baju": "Louis Vuitton",
+       "Harga": "1550000",
+       "Rating": "10/10"
+    },
+    {
+       "Jenis_Baju": "Kaos",
+       "Merk_Baju": "AHHA",
+       "Harga": "99000",
+       "Rating": "7.5/10"
+    },
+    {
+       "Jenis_Baju": "Sweater",
+       "Merk_Baju": "Channel",
+       "Harga": "550000",
+       "Rating": "8.5/10"
+    }
+ ]
